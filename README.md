@@ -25,7 +25,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🌟 Fun Facts:  When I'm not coding, you might find me reading books, going for a Ride, or exploring tech stories.
 
 📫 Contact:
-📧 Feel free to drop me an email at abdulfazil@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/abdul-fazil-b78a801b0/)https://www.linkedin.com/in/abdul-fazil-b78a801b0/].
+📧 Feel free to drop me an email at abdulfazil@gmail.com or connect with me on LinkedIn www.linkedin.com/in/abdulfazil
+
 
 Happy coding! 🚀
 
